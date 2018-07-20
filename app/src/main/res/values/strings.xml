@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Daily Cash Earn money Online</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Button text -->
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="logout">Logout</string>
+    <string name="spin">Unlimited spin</string>
+    <string name="watch_videos">Watch videos</string>
+    <string name="get_point">Get 100 pints</string>
+    <string name="wallet_point"> 0 Points</string>
+    <string name="redeem">Redeem</string>
+    <string name="minimum_points">Minimum 10000 Points</string>
+<string name="won">Congratulations, You Have Won..</string>
+    <string name="cool">COOL</string>
+</resources>

@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "898595814270",
+    "firebase_url": "https://dailycashearnmoneyonline.firebaseio.com",
+    "project_id": "dailycashearnmoneyonline",
+    "storage_bucket": "dailycashearnmoneyonline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898595814270:android:a806b006f5128c1a",
+        "android_client_info": {
+          "package_name": "com.paytmcash.real.dailycashearnmoneyonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898595814270-bvatlolbtesqog7eqrsvckopg035iegt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paytmcash.real.dailycashearnmoneyonline",
+            "certificate_hash": "a506fdee93ce126fbfa50527143040312448d081"
+          }
+        },
+        {
+          "client_id": "898595814270-ckhj6c4e69gs3jvrtim7iurgjb863fne.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "898595814270-ckhj6c4e69gs3jvrtim7iurgjb863fne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCG_8XVg5pmTCO4l1IBtB-H7bFNIE6dY4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898595814270-ckhj6c4e69gs3jvrtim7iurgjb863fne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
