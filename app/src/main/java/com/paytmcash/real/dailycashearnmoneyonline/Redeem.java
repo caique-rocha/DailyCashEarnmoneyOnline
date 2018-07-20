@@ -52,7 +52,7 @@ public class Redeem extends AppCompatActivity {
         contact_id.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Uri uri = Uri.parse("http://techyunk.com/contact");
+                Uri uri = Uri.parse("https://technicalnewsfirst.blogspot.com");
                 Intent intent = new Intent(Intent.ACTION_VIEW, uri);
                 startActivity(intent);
             }
